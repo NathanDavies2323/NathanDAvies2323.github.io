@@ -8,7 +8,7 @@ published: true
 ---
 
 10/01/01
-
+In this lesson we did this ...
 
 <table>
   <tr>
