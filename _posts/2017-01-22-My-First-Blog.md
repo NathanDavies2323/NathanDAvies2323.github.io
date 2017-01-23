@@ -6,14 +6,8 @@ permalink: /My-First-Blog/
 source-id: 1TT21oO4AosYQsfnX7dt1j1G3yvzJWPkmwz33oJj_A1g
 published: true
 ---
-<table>
-  <tr>
-    <td>Title</td>
-    <td>My First Blog</td>
-    <td>Date</td>
-    <td>10/01/01</td>
-  </tr>
-</table>
+
+10/01/01
 
 
 <table>
