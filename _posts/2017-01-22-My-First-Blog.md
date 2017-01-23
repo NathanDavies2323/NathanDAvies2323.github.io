@@ -12,14 +12,9 @@ In this lesson we started coding and created our website.
 
 
 <p><b>Target for this lesson?</b> To have a Github site up and running</p>
-<table>
 
-  <tr>
-  <td>Did I reach my target?</td>
-    <td> I have reached this target.</td>
-  </tr>
-</table>
 
+<p><b>Did I reach my target?</b> Yes.</p>
 
 <table>
   <tr>
