@@ -10,15 +10,10 @@ published: true
 10/01/01<br/>
 In this lesson we started coding and created our website.
 
+
+<p><b>Target for this lesson?</b> To have a Github site up and running</p>
 <table>
-  <tr>
-    <td>Starting point:</td>
-    <td>Introduction</td>
-  </tr>
-  <tr>
-    <td>Target for this lesson?</td>
-    <td>To have a Github site up and running</td>
-  </tr>
+
   <tr>
   <td>Did I reach my target?</td>
     <td> I have reached this target.</td>
