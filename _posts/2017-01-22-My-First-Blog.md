@@ -10,7 +10,7 @@ published: true
 10/01/01<br/>
 In this lesson we started coding and created our website.
 
-<table>
+<table border=1>
   <tr>
     <td>Starting point:</td>
     <td>Introduction</td>
@@ -20,8 +20,7 @@ In this lesson we started coding and created our website.
     <td>To have a Github site up and running</td>
   </tr>
   <tr>
-  <td>Did I reach my target?
-(add details to "Lesson Review")</td>
+  <td>Did I reach my target?</td>
     <td> I have reached this target.</td>
   </tr>
 </table>
