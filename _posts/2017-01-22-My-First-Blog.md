@@ -10,7 +10,7 @@ published: true
 10/01/01<br/>
 In this lesson we started coding and created our website.
 
-<table border="1">
+<table>
   <tr>
     <td>Starting point:</td>
     <td>Introduction</td>
