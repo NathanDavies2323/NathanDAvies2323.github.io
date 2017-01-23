@@ -8,7 +8,7 @@ published: true
 ---
 
 10/01/01<br/>
-In this lesson we made our Github site up and running and started coding.
+In this lesson we started coding and created our website.
 
 <table>
   <tr>
