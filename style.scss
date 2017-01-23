@@ -260,7 +260,11 @@ nav {
     font-style: italic;
   }
 
-  .comments {
+article.post {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.comments {
     margin-top: 10px;
   }
 
